@@ -8,7 +8,7 @@ function get_wpas_uri() {
     if (defined('WPAS_URI')) {
         return rtrim(WPAS_URI,'/');
     }
-    return get_stylesheet_directory_uri() . '/' . basename(__DIR__);
+    return rtrim(plugin_dir_url(__FILE__), '/');
 }
 
 /**
