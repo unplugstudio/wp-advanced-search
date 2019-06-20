@@ -2,7 +2,7 @@
 /*
 Plugin Name: WP Advanced Search Framework
 Plugin URI: http://wpadvancedsearch.com
-Version: 1.4.3
+Version: 1.4.4
 Author: Sean Butze
 Author URI: http://seanbutze.com
 License: GPLv2 or later
